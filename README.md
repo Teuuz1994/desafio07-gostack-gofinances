@@ -1,7 +1,7 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
-
+&nbsp;
 <p align="center">
-<img style="background: #323031; padding: 10px; border-radius: 3px; margin-top: 10px;" src=".github/logo.png" alt="Go Finances" />
+<img src=".github/logo.png" alt="Go Finances" />
 </p>
 
 <h3 align="center">
